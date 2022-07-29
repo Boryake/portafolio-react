@@ -8,13 +8,15 @@ const data = [
     id: 1,
     image: IMG1,
     title: "Calculator",
-    github: "https://github.com/Boryake/CalculadoraCurso",
+    github: "https://https://github.com/Boryake/CalculadoraCurso.com",
+
   },
   {
     id: 2,
     image: IMG2,
     title: "WeatherApp",
-    github: "https://github.com/Boryake/weather-app",
+    github: "https://ghttps://github.com/Boryake/weather-appithub.com",
+
   },
 ];
 

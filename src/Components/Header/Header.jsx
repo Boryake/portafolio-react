@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 import Cta from "./Cta";
-import Me from "../../assets/assets/me.png";
+import Me from "../../assets/assets/react-3.png";
 import HeaderSocial from "./HeaderSocial";
 import Bubleone from "./buble_one";
 import Bubletwo from "./buble_two";

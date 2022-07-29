@@ -1,0 +1,15 @@
+.layer1{
+    background-image: url(../../assets/assets/buble.svg);
+}
+.layer2{
+    background-image: url(../../assets/assets/buble2.svg);
+}
+
+.flip{
+    transform: rotate(180deg);
+}
+
+.blob-motion{
+    position: absolute;
+    transform: translateY(-20%);
+}

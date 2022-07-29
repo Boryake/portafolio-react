@@ -16,19 +16,19 @@ const Services = () => {
         <ul className='service__list'>
         <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Content strategy.</p>
           </li>
           <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Information architecture.</p>
           </li>
           <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Brand and design system development.</p>
           </li>
           <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>User flow charts, diagrams.</p>
           </li>
         </ul>
         </article>
@@ -40,44 +40,48 @@ const Services = () => {
         <ul className='service__list'>
         <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Content Management System.</p>
           </li>
           <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Ecommerce Application.</p>
           </li>
           <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Custom Web Applications.</p>
           </li>
           <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>QA & Testing.</p>
+          </li>
+          <li>
+            <BiCheck className='service__list-icon'/>
+            <p>Web Support and Maintenance.</p>
           </li>
         </ul>
         </article>
         {/* END OF WEB DEVELOPMENT */}
         <article className='service'>
           <div className='service_head'>
-            <h3>Content Creation</h3>
+            <h3>System Analyst</h3>
           </div>
 
         <ul className='service__list'>
         <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Business Analysis Outsourcing.</p>
           </li>
           <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Requirement Management Services.</p>
           </li>
           <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Communication & Networking.</p>
           </li>
           <li>
             <BiCheck className='service__list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Solution Design and Validation.</p>
           </li>
         </ul>
         </article>

@@ -19,7 +19,7 @@ const Header = () => {
       <div className="container header__container">
         <h4>Hello I'm</h4>
         <h1>Facundo N. Pasqua</h1>
-        <h5 className="text-ligth">Fulstack Developer</h5>
+        <h5 className="text-ligth">Fullstack Developer</h5>
         <Cta />
         <HeaderSocial />
         {/* <Bubleone> */}

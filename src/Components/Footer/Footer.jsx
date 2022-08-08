@@ -18,7 +18,9 @@ const Footer = () => {
       <FooterSocial/>
       <div className='footer__copyrigth'>
         <small>&copy; Portfoilio, All rights reserved.</small>
-      </div> 
+      </div>
+      <div className='close'>&lt;Facundo Pasqua/&#62;</div> 
+      
     </footer>
   )
 }

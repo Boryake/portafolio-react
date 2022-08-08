@@ -1,8 +1,8 @@
 footer{
     background-image: url(../../assets/assets/waves3.svg);
     z-index: 4;
-    background-position: 0 69%;
-    padding: 3rem 0;
+    background-position: 0 75%;
+    padding: 2rem;
     text-align: center;
     font-size: 0.9rem;
     margin-top: 7rem;
@@ -58,10 +58,26 @@ footer a{
 .footer__copyrigth{
     margin-bottom: 3rem;
     color: var(--color-bg);
+}
+.close{
+    gap:0;
+    color: var(--color-bg);
+    margin-top: -3rem;
+    margin-bottom: 3rem;
 
 }
 
-@media screen and (max-width:1024px){
+@media screen and (max-width:1600px){
+
+
+    .permalinks{
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .footer__socials{
+        margin-bottom: 0rem;
+    }
 
 }
 

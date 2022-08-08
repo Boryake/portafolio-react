@@ -2,18 +2,7 @@ import React from "react";
 import "./Header.css";
 import Me from "../../assets/assets/react-3.png";
 import HeaderSocial from "./HeaderSocial";
-import Cv from "./cv.pdf"
-
-
-const Cta = () => {
-  return (
-    <div className='cta'>
-        <a href={Cv} download className='btn'>Download CV</a>
-        <a href="#contact" className='btn btn-primary'>Let's Talk</a>
-    </div>
-  )
-}
-
+import Cta from "./Cta";
 
 const Header = () => {
   return (

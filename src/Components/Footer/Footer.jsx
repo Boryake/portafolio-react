@@ -1,6 +1,8 @@
 
 import React from 'react'
 import "./Footer.css"
+import "./FooterSocial"
+import FooterSocial from './FooterSocial'
 
 const Footer = () => {
   return (
@@ -13,7 +15,7 @@ const Footer = () => {
       <li><a href="#services">Services</a></li>
       <li><a href="#portafolio">Portfolio</a></li>
       <li><a href="#contact">Contact</a></li>
-
+      <FooterSocial/>
       <div className='footer__copyrigth'>
         <small>&copy; Portfoilio, All rights reserved.</small>
       </div> 

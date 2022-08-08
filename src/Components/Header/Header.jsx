@@ -3,14 +3,14 @@ import "./Header.css";
 import Cta from "./Cta";
 import Me from "../../assets/assets/react-3.png";
 import HeaderSocial from "./HeaderSocial";
-import Bubble from "./Bubble"
+
 
 
 
 const Header = () => {
   return (
     <header>
-      <Bubble />
+
       <div className="container header__container">
         <h4>Hello I'm</h4>
 

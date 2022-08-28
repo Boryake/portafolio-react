@@ -22,7 +22,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "Stock and Sales (C# adn SQL)",
+    title: "Stock and Sales (C# and SQL)",
     github: "https://github.com/DontBeFede/Trabajo-Practico-Nanzer-Climatizaciones",
 
   },

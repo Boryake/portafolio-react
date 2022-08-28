@@ -72,14 +72,35 @@ header {
     }
   }
 
+  @media screen and (max-height:600px){
+    header{
+      height: 100vh;
+    }
+    
+    .me {
+        height: 14rem;
+        width: 18rem;
+        position:absolute;
+        align-items: center;
+        left: calc(50% - 10rem);
+        padding: 0.6rem;
+        
+      }
+  }
+
 
 @media screen and (max-width:600px){
     header{
         height: 100vh;
       }
       .me {
-        height: 15rem;
-        width: 25rem;
+        height: 14rem;
+        width: 18rem;
+        position:absolute;
+        align-items: center;
+        left: calc(50% - 10rem);
+        padding: 0.6rem;
+        
       }
     .header__socials,
     .scroll__down{
@@ -99,12 +120,15 @@ header {
         
     }
 
-    .me{
-        height: 21rem;
-        width: 22rem;
-        padding: 0;
-        margin-top: 1rem;
-    }
+    .me {
+        height: 14rem;
+        width: 15rem;
+        position:absolute;
+        align-items: center;
+        left: calc(50% - 10rem);
+        margin-top: 3rem;
+        
+      }
 
     .me__image{
         

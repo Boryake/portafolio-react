@@ -2,6 +2,7 @@ import React from "react";
 import "./Portafolio.css";
 import IMG2 from "../../assets/assets/portfolio2.png";
 import IMG1 from "../../assets/assets/portfolio1.jpg";
+import IMG3 from "../../assets/assets/IMG3.png";
 
 const data = [
   {
@@ -16,6 +17,13 @@ const data = [
     image: IMG2,
     title: "WeatherApp",
     github: "https://github.com/Boryake/weather-app",
+
+  },
+  {
+    id: 3,
+    image: IMG3,
+    title: "Stock and Sales (C# adn SQL)",
+    github: "https://github.com/DontBeFede/Trabajo-Practico-Nanzer-Climatizaciones",
 
   },
 ];

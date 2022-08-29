@@ -16,9 +16,7 @@ const Header = () => {
         <HeaderSocial />
 
         <div className="me">
-          <div className="triangle">
 
-          </div>
           { <img src={Me} alt="me" className="me__image"/> }
         </div>
 

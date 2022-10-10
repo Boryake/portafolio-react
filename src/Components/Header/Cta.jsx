@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from "./cv.pdf"
+
 
 const Cta = () => {
   return (

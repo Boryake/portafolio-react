@@ -72,6 +72,36 @@ header {
     }
   }
 
+  @media screen and (max-height:860px){
+    
+    .me {
+      
+      width: 24rem;
+      position:relative;
+      align-items: center;
+      left: calc(45% - 10rem);
+      margin-top: 5rem;
+      padding: 1rem;
+      
+    }
+    }
+
+    @media screen and (max-height:730px){
+    
+      .me {
+        
+        width: 20rem;
+        position:relative;
+        align-items: center;
+        left: calc(50% - 10rem);
+        margin-top: 2rem;
+        padding: 1rem;
+        
+      }
+      }
+
+    
+
   @media screen and (max-height:600px){
     header{
       height: 100vh;
@@ -84,6 +114,7 @@ header {
         align-items: center;
         left: calc(50% - 10rem);
         padding: 0.6rem;
+        margin-top: 2rem;
         
       }
   }

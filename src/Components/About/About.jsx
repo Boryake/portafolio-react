@@ -36,12 +36,9 @@ const About = () => {
             </article>
           </div>
           <p>
-            I'm actually working in the VAM area in Konecta as a Data Analyst in
-            charge of the sales area. I have a Business Administration Associate
-            degree and I'm currently in second year of the System Analyst's
-            career. Additionally, I'm studing to be a front-end developer in
-            React and I'm currently at the end of a course in AI at the UBA
-            (Univerty of Buenos Aires)
+            I'm currently working in Santex as a QA Automation Tester. I have a Business Administration Associate
+            degree and I'm in my third year of System Analystics at Cervantes University.
+            I have finished a full course on AI and DATA GOVERNANCE at UBA (University of Buenos Aires) and I´m also studing to be a front-end developer in REACT.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
